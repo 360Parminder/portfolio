@@ -133,6 +133,16 @@ canvas {
     display: table-cell;
     width: 35vw;
     z-index: 0;
+    align-items: center;
+}
+.p2-text-right ion-icon,img{
+    padding-top: 10px;
+padding-right: 10px;
+}
+.p2-text-right img{
+    width: 40px;
+    height: auto;
+    align-self: center;
 }
 
 
