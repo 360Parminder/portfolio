@@ -5,7 +5,7 @@ Welcome to my portfolio repository! This repository contains code and resources 
 I am Parminder, a Front-end Devloper passionate about Good looking user side . With 2 years of experience in Front-end , I have worked on various projects and gained expertise in Reactjs, Nodejs Mongodb, React Native, Firebase,AWS and many more.
 
 <h2>Portfolio Website</h2>
-This repository hosts the code for my portfolio website. You can visit it here https://parminder.netlify.app/. The website showcases:
+This repository hosts the code for my portfolio website. You can visit it here <a href="https://parminder.netlify.app/">Parminder</a>. The website showcases:
 
 <b>About Me:</b> A brief introduction to who I am and what I do.
 <b>Projects:</b> Highlights of some of my notable projects, with descriptions and links to their respective repositories or live demos.
